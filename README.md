@@ -1,8 +1,8 @@
-# Job Board Application
+# CareerHub
 
 ## Overview
 
-The Job Board Application is a console-based system designed to facilitate the process of job searching and recruitment. This application allows job seekers to create profiles, apply for job listings, and view their applications. Companies can post job listings, while the system also maintains a database of applicants, companies, and job listings. 
+It is a Job Board Application is a console-based system designed to facilitate the process of job searching and recruitment. This application allows job seekers to create profiles, apply for job listings, and view their applications. Companies can post job listings, while the system also maintains a database of applicants, companies, and job listings. 
 
 The application follows object-oriented programming principles and incorporates robust exception handling to ensure a smooth user experience.
 
