@@ -1,0 +1,6 @@
+﻿{
+  "ConnectionStrings": {
+    "LocalConnectionString": "Server=NAIRY;Database=CareerHub;Trusted_Connection=True"
+  }
+
+}
